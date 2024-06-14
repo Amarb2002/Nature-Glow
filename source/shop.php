@@ -175,7 +175,7 @@ include 'meta.php';
                                                 <a href="shop-details.php?id=<?php echo $row['id']; ?>">
                                                     <p><?php echo $row['name']; ?></p>
                                                 </a>
-                                                <h6>$<?php echo $row['price']; ?></h6>
+                                                <h6>₹<?php echo $row['price']; ?></h6>
                                             </div>
                                         </div>
                                     </div>
@@ -200,14 +200,14 @@ include 'meta.php';
                             </ul>
                         </nav>
                     </div> -->
+                    </div>
                 </div>
             </div>
-        </div>
     </section>
     <!-- ##### Shop Area End ##### -->
 
     <!-- ##### Footer Area Start ##### -->
-   
+
 </body>
 
 </html>

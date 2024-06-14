@@ -223,7 +223,7 @@
                     <div class="col-12 col-md-6">
                         <div class="single_product_desc">
                             <h4 class="title">Recuerdos Plant</h4>
-                            <h4 class="price">$9.99</h4>
+                            <h4 class="price">₹9.99</h4>
                             <div class="short_overview">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellem malesuada in nibh selama euismod. Curabitur a rhoncus dui. Nunc lobortis cursus magna utrum faucibus. Vivamus justo nibh, pharetra non risus accumsan, tincidunt suscipit leo.</p>
                             </div>
@@ -450,7 +450,7 @@
                             <a href="shop-details.html">
                                 <p>Cactus Flower</p>
                             </a>
-                            <h6>$10.99</h6>
+                            <h6>₹10.99</h6>
                         </div>
                     </div>
                 </div>
@@ -472,7 +472,7 @@
                             <a href="shop-details.html">
                                 <p>Cactus Flower</p>
                             </a>
-                            <h6>$10.99</h6>
+                            <h6>₹10.99</h6>
                         </div>
                     </div>
                 </div>
@@ -494,7 +494,7 @@
                             <a href="shop-details.html">
                                 <p>Cactus Flower</p>
                             </a>
-                            <h6>$10.99</h6>
+                            <h6>₹10.99</h6>
                         </div>
                     </div>
                 </div>
@@ -520,7 +520,7 @@
                             <a href="shop-details.html">
                                 <p>Cactus Flower</p>
                             </a>
-                            <h6>$10.99</h6>
+                            <h6>₹10.99</h6>
                         </div>
                     </div>
                 </div>
@@ -591,7 +591,7 @@
                                 </div>
                                 <div class="product-info">
                                     <a href="shop-details.html">Cactus Flower</a>
-                                    <p>$10.99</p>
+                                    <p>₹10.99</p>
                                 </div>
                             </div>
 
@@ -602,7 +602,7 @@
                                 </div>
                                 <div class="product-info">
                                     <a href="shop-details.html">Tulip Flower</a>
-                                    <p>$11.99</p>
+                                    <p>₹11.99</p>
                                 </div>
                             </div>
                         </div>

@@ -13,8 +13,8 @@
                        <div class="top-header-content d-flex align-items-center justify-content-between">
                            <!-- Top Header Content -->
                            <div class="top-header-meta">
-                               <a href="#" data-toggle="tooltip" data-placement="bottom" title="infodeercreative@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: infodeercreative@gmail.com</span></a>
-                               <a href="#" data-toggle="tooltip" data-placement="bottom" title="+1 234 122 122"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +1 234 122 122</span></a>
+                               <a href="#" data-toggle="tooltip" data-placement="bottom" title="infodeercreative@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: nature-glow@gmail.com</span></a>
+                               <a href="#" data-toggle="tooltip" data-placement="bottom" title="+1 234 122 122"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 9741961347</span></a>
                            </div>
 
                            <!-- Top Header Content -->
@@ -35,7 +35,7 @@
                                </div>
                                <!-- Login -->
                                <div class="login">
-                                   <a href="login.php"><i class="fa fa-user" aria-hidden="true"></i> <span>Login</span></a>
+                                   <a href="../login.php"><i class="fa fa-user" aria-hidden="true"></i> <span>Login</span></a>
                                </div>
                                <!-- Cart -->
                                <div class="cart">
@@ -56,7 +56,7 @@
                    <nav class="classy-navbar justify-content-between" id="alazeaNav">
 
                        <!-- Nav Brand -->
-                       <a href="index.php" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+                       <a href="index.php" class="nav-brand"><img style="height:100px; width: 150px" src="img/core-img/logoo.png" alt=""></a>
 
                        <!-- Navbar Toggler -->
                        <div class="classy-navbar-toggler">

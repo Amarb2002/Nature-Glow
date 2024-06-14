@@ -71,11 +71,12 @@ include 'header.php';
                                                 <span class="qty-plus" onclick="var effect = document.getElementById('qty'); var qty = effect.value; if( !isNaN( qty )) effect.value++;return false;"><i class="fa fa-plus" aria-hidden="true"></i></span>
                                             </div>
                                         </td>
-                                        <td class="price"><span>$9.99</span></td>
-                                        <td class="total_price"><span>$9.99</span></td>
+                                        <td class="price"><span>₹9.99</span></td>
+                                        <td class="total_price"><span>₹9.99</span></td>
                                         <td class="action"><a href="#"><i class="icon_close"></i></a></td>
                                     </tr>
-                                <?php $i=$i+1; } ?>
+                                <?php $i = $i + 1;
+                                } ?>
                             </tbody>
                         </table>
                     </div>

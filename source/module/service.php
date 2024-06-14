@@ -60,7 +60,7 @@
         <div class="col-12 col-lg-6">
             <div class="alazea-video-area bg-overlay mb-100">
                 <img src="img/bg-img/23.jpg" alt="">
-                <a href="http://www.youtube.com/watch?v=7HKoqNJtMTQ" class="video-icon">
+                <a href="https://www.youtube.com/watch?v=9nQ6d3A2cTs" class="video-icon">
                     <i class="fa fa-play" aria-hidden="true"></i>
                 </a>
             </div>
